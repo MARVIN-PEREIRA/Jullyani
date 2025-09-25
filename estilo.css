@@ -1,0 +1,54 @@
+body{
+    background-image: url(../planodefundojully.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: white;}
+h1{
+    text-align: center;
+    height: 40px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.pdeh1{
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+   
+    
+}
+
+ h2{
+        width: 100%;
+        margin: 25px; 
+
+    }
+p{
+    text-align: center;
+    font-size: 18px;
+    color: #433c3c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+ul{
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+    
+    
+}
+.rodape{
+    text-align: center;
+    font-size: 15px;
+    color: #333;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    
+}
